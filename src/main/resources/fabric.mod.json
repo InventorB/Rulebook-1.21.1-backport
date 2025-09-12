@@ -5,7 +5,7 @@
 	"name": "Rulebook",
 	"description": "Rules screening mod",
 	"authors": [
-		"Libreh"
+		"Braden Wagner"
 	],
 	"contact": {
 		"sources": "https://github.com/Libreh/Rulebook"
@@ -23,7 +23,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",
-		"minecraft": "~1.21.5",
+		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
 	}
