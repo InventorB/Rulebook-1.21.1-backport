@@ -71,7 +71,7 @@ public final class RulebookGui extends BookGui {
     }
 
     private boolean hasViewedAllPages() {
-        var data = book.get(DataComponentTypes.WRITTEN_BOOK_CONTENT);
+        var data = book.getOrDefault(DataComponentTypes.WRITTEN_BOOK_CONTENT, null);
         if (data == null) {
             RulebookMod.LOGGER.warn("Book content is null for player {}", player.getName().getString());
             return false;
