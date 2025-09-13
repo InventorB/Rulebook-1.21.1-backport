@@ -5,5 +5,5 @@ Thanks Libreh for making this code so easy to backport!
 
 
 ## Credits
-- [Libreh](https://github.com/Libreh/Rulebook) [All the code that was forked]
-- [LilydevMC/Rules](https://github.com/LilydevMC/Rules) [code and inspiration]
+- [Libreh](https://github.com/Libreh/Rulebook) [Libreh's forked code]
+- [LilydevMC/Rules](https://github.com/LilydevMC/Rules) [Libreh's code inspiration]
