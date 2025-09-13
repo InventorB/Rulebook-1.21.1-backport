@@ -2,13 +2,13 @@
 	"schemaVersion": 1,
 	"id": "rulebook",
 	"version": "${version}",
-	"name": "Rulebook",
+	"name": "Rulebook-1.21.1-backport",
 	"description": "Rules screening mod",
 	"authors": [
-		"Braden Wagner"
+		"Braden", "Libreh (forked code)"
 	],
 	"contact": {
-		"sources": "https://github.com/Libreh/Rulebook"
+		"sources": "https://github.com/InventorB/Rulebook-1.21.1-backport"
 	},
 	"license": "LGPLv3",
 	"icon": "assets/rulebook/icon.png",
